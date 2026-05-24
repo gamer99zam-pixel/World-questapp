@@ -1,0 +1,18 @@
+<svg width="384" height="384" viewBox="0 0 384 384" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a0b2e"/>
+      <stop offset="100%" style="stop-color:#0f0f1a"/>
+    </linearGradient>
+    <linearGradient id="crown" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7c3aed"/>
+      <stop offset="100%" style="stop-color:#db2777"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="384" height="384" rx="76" fill="url(#bg)"/>
+  <!-- Crown emoji-style -->
+  <text x="192" y="249" font-size="211" text-anchor="middle" dominant-baseline="middle">👑</text>
+  <!-- W letter -->
+  <text x="192" y="337" font-size="69" font-weight="900" text-anchor="middle" fill="url(#crown)" font-family="Arial,sans-serif">WQ</text>
+</svg>
